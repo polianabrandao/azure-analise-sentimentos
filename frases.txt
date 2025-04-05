@@ -1,0 +1,20 @@
+
+SPEECH STUDIO
+
+1. Olá, meu nome é Poliana e estou testando a transcrição de voz.
+
+2. A reunião está marcada para o dia quinze de abril, às três da tarde.
+
+3. Hoje é um bom dia para aprender sobre inteligência artificial.
+
+4. A tecnologia está evoluindo muito rápido.
+
+5. Gosto de estudar usando exemplos práticos.
+
+6. Esse teste faz parte de um projeto com o Azure AI Speech.
+
+
+
+LANGUAGE STUDIO
+
+O atendimento no restaurante foi excelente. Os garçons foram muito atenciosos e a comida estava deliciosa. No entanto, achei o preço um pouco alto para o que foi oferecido. Ainda assim, voltaria lá novamente.
